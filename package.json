@@ -5,7 +5,7 @@
   "type": "module",
   "scripts": {
     "dev": "vite",
-    "build": "vite build --base=/Organic-Shop-Vite/",
+    "build": "vite build --base=/Knitted-Home/",
     "preview": "vite preview"
   },
   "devDependencies": {
